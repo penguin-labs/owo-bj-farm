@@ -1,7 +1,7 @@
 <div align="center">
   
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF9ACD&center=true&vCenter=true&width=500&height=60&lines=🐧+owo+blackjack+farm;auto+play+%7C+cute+%7C+profit" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF9ACD&center=true&vCenter=true&width=500&height=60&lines=🐧+owo+blackjack+farm;.play+%7C+cute+%7C+profit" alt="Typing Animation" />
 </div>
   <img src="https://cdn.discordapp.com/emojis/861110080350453770.gif" width="80" />
   
@@ -16,6 +16,7 @@
   [![License](https://img.shields.io/badge/License-MIT-FF9ACD?style=for-the-badge)](LICENSE)
   
   ⚠️ *use responsibly — this is for educational purposes* ⚠️
+  Leave a star to support the developer.
   
 </div>
 
