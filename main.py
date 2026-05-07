@@ -38,8 +38,7 @@ async def on_ready():
         f"{Fore.LIGHTRED_EX} > GhoSty OwO BlackJack Farm v2 Connected To:{Style.RESET_ALL}",
         f"{Fore.LIGHTGREEN_EX}{ghosty.user}{Style.BRIGHT}{Style.RESET_ALL}",
     )
-    print(f"{Fore.LIGHTRED_EX} > Released - 12 April 2026 [Join Async Development For Further Updates]{Style.RESET_ALL}")
-    print(f"{Fore.CYAN} > https://discord.gg/SyMJymrV8x {Style.RESET_ALL}")
+    
 
 farming_active = False
 farm_task = None
